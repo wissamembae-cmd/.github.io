@@ -1,2 +1,2 @@
 # .github.io
-Portfolio de Wissame Mbae, étudient en BTS SIO
+Portfolio de Wissame Mbae, étudiant en BTS SIO
